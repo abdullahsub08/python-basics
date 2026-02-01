@@ -1,2 +1,7 @@
 # python-basics
-Practising Python fundamentals and problem solving
+This repository contains my Python practice as I learn the fundamentals.
+### Topics
+- Variables
+- Loops
+- If/else
+- Functions
